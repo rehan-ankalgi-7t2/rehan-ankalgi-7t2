@@ -11,7 +11,7 @@ let superCoolDude = {
 		"Reactjs", "nodejs", "expressjs", "mongoDB & mongoose", "redux / redux toolkit", "mui5"
 	],
 	devTools: [
-		"postman", "visual studio code", "figma", "webflow", "jira", "bitbucket", "git & github"
+		"postman", "visual studio code", "figma", "webflow", "jira", "bitbucket", "git & github", "odoo"
 	],
 	techStack : "M E R N",
 	email: "rehanankalgi7t2@gmail.com",
