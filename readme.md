@@ -1,10 +1,10 @@
 # Hi there! 👋
-- 👨🏻‍💻 Fullstack Developer at Cadabam's Group
+- 👨🏻‍💻 Fullstack Developer
 - 🥞 MERN Stack
-- 👀 Interested in Flutter, Android Development, UIUX, C++ Libraries
+- 👀 Interested in CLoud Native, DevOps, AWS, K8s, Product Design
 - 🧠 Currently learning DSA
 ````javascript
-let superCoolDude = {
+const superCoolDude = {
 	name: "Rehan Ankalgi",
 	pronouns: "he/him",
 	languages: [
